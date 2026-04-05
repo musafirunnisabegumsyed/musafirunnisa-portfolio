@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/musafirunnisa-portfolio/static/css/main.1ec34aab.css",
+    "main.js": "/musafirunnisa-portfolio/static/js/main.5175b757.js",
+    "index.html": "/musafirunnisa-portfolio/index.html",
+    "main.1ec34aab.css.map": "/musafirunnisa-portfolio/static/css/main.1ec34aab.css.map",
+    "main.5175b757.js.map": "/musafirunnisa-portfolio/static/js/main.5175b757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec34aab.css",
+    "static/js/main.5175b757.js"
+  ]
+}
