@@ -1,70 +1,44 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+musafirunnisa-portfolio 🌐
+A personal portfolio website showcasing my skills, projects, and contact information. Built with React and styled with CSS. Currently, this version works locally. A live deployed version link can be added later.
 
-In the project directory, you can run:
+🚀 Features
+Responsive design for desktop and mobile.
+Interactive project section with modals for detailed project info.
+About section highlighting skills, expertise, and programming knowledge.
+Contact form to reach out via email.
+Smooth animations and clean UI design.
+🛠 Skills & Technologies
+Frontend: HTML, CSS, JavaScript, React.js
+Backend (Planned): Node.js, Express.js, MongoDB
+Programming: Java, Python, Haskell
+Tools & Soft Skills: Git, VS Code, Communication, Leadership
 
-### `npm start`
+📂 Project Highlights
+1. CiviGuide – Real-Time Disaster Monitoring and Alert System
+Built a MERN stack web application for real-time disaster monitoring and alerts.
+Integrated geolocation, geofencing, and weather APIs to detect environmental conditions.
+Implemented JWT authentication, OTP-based password recovery, and real-time notifications.
+Designed responsive UI with dynamic data updates for multiple users.
+2. Network-Based QoE Assessment Framework Using ML
+Created an automated data collection pipeline using Selenium for QoE analysis.
+Performed data preprocessing including missing values handling and normalization.
+Engineered features for machine learning model input.
+Designed and evaluated ML models to predict QoE using network performance metrics.
+3. Alzheimer Detection
+Developed a CNN-based deep learning model to detect Alzheimer’s disease from images.
+Utilized pretrained architectures for improved accuracy and efficiency.
+Performed data preprocessing including augmentation and normalization.
+Evaluated model performance using accuracy, precision, and recall metrics.
+4. Hotel Website
+Built a responsive frontend using HTML, CSS, and JavaScript.
+Designed a user-friendly UI for hotel booking and information display.
+Implemented interactive features like image sliders and forms.
+Optimized website performance for fast loading and smooth navigation.
+📂 Local Setup
+To run the portfolio locally:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Clone the repository:
+```bash git clone https://github.com/your-username/portfolio.git
+>>>>>>> 5f125a1c533a84aa79e3ca026feab4ecd17c8915
